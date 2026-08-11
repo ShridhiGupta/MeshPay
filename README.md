@@ -404,4 +404,3 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 
 Demo code, no license. Use it however you want for learning.
 
-- Shridhi Gupta
