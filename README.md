@@ -397,6 +397,3 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 **`mvnw.cmd : The term 'mvnw.cmd' is not recognized`** — On PowerShell you need to prefix with `.\`: `.\mvnw.cmd spring-boot:run`.
 
 **Tests fail intermittently** — The concurrency test is timing-sensitive. If it ever flakes, run it 3x; if it consistently fails on your hardware, file the actual failure output.
-
----
-
